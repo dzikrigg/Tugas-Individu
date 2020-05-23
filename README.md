@@ -8,8 +8,7 @@ Pada tugas ini Saya membuat Kalkulator menggunakan Visual Studio 2019.
 Untuk source code bisa mengunjungi repo pada : [Kalkulator](https://github.com/dzikrigg/Tugas-Individu/tree/master/Kalkulator/cal/cal)
 
 ### 2. Tugas Form Filling
-Tugas form filling dimana diperintahkan untuk membuat form ekspedisi. Untuk source code bisa clone repostory : 
- bisa mengunjungi repo pada : [Form Ekspedisi](https://github.com/dzikrigg/Tugas-Individu/tree/master/Form%20Ekspedisi/Form%20pengiriman/Form%20pengiriman)
+Tugas form filling dimana diperintahkan untuk membuat form ekspedisi. Untuk source code bisa mengunjungi repo pada : [Form Ekspedisi](https://github.com/dzikrigg/Tugas-Individu/tree/master/Form%20Ekspedisi/Form%20pengiriman/Form%20pengiriman)
 
 ### 3. Tugas Pemrograman Visual Optional
 Pada tugas opsional adalah tugas bebas, mengambil dari materi yang telah diberikan. kali ini saya membuat Simple CRUD. Untuk source code bisa mengunjungi repo pada : [Form CRUD](https://github.com/dzikrigg/Tugas-Individu/blob/master/FormCRUD.zip)
