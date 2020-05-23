@@ -1,0 +1,29 @@
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\bin\Debug\Form pengiriman.exe.config
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\bin\Debug\Form pengiriman.exe
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\bin\Debug\Form pengiriman.pdb
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form pengiriman.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Form1.resources
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form pengiriman.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form pengiriman.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form pengiriman.exe
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form pengiriman.pdb
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Homepage.resources
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Form2.resources
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Ekspedisi.resources
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Transaksi_Klaimcs.resources
+C:\Users\ASUS\source\repos\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Form3.resources
+D:\FROM C\Form pengiriman\Form pengiriman\bin\Debug\Form pengiriman.exe.config
+D:\FROM C\Form pengiriman\Form pengiriman\bin\Debug\Form pengiriman.exe
+D:\FROM C\Form pengiriman\Form pengiriman\bin\Debug\Form pengiriman.pdb
+D:\FROM C\Form pengiriman\Form pengiriman\obj\Debug\Form pengiriman.csprojAssemblyReference.cache
+D:\FROM C\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Form1.resources
+D:\FROM C\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Form2.resources
+D:\FROM C\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Form3.resources
+D:\FROM C\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Properties.Resources.resources
+D:\FROM C\Form pengiriman\Form pengiriman\obj\Debug\Form pengiriman.csproj.GenerateResource.cache
+D:\FROM C\Form pengiriman\Form pengiriman\obj\Debug\Form pengiriman.exe
+D:\FROM C\Form pengiriman\Form pengiriman\obj\Debug\Form pengiriman.pdb
+D:\FROM C\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.form4.resources
+D:\FROM C\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Form5.resources
+D:\FROM C\Form pengiriman\Form pengiriman\obj\Debug\Form_pengiriman.Form0.resources
