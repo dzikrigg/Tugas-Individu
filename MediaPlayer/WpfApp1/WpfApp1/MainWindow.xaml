@@ -1,0 +1,55 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="EZ Media Player" Height="650" Width="1124">
+
+    <Grid Margin="0,0,-1,-21" Background="#FF003A35">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="251*"/>
+            <RowDefinition Height="340*"/>
+        </Grid.RowDefinitions>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="573" Grid.RowSpan="2" Stroke="Black" VerticalAlignment="Top" Width="1025"/>
+
+        <Label Foreground="LightCyan" Content="EZ Media Player&#xD;&#xA;&#xA;1. Click Load to Open File&#xA;2. Click Play button to Start the Video&#xA;3. Click Pause Button to Pause the Video&#xA;4. Click Stop Button to Close the Video&#xA;5. Use Seek Bar to Jump to the Part of Video as You Want&#xA;6. Use Volume Slider to Control the Volume" HorizontalAlignment="Left" Height="266" Margin="180,175,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="736" FontSize="24" FontWeight="Bold" FontFamily="Century Gothic"/>
+
+        <MediaElement  LoadedBehavior="Manual" ScrubbingEnabled="True" UnloadedBehavior="Manual" x:Name="MediaElement1" MediaOpened="player1_MediaOpened" HorizontalAlignment="Left" Height="600" VerticalAlignment="Top" Width="1024" Grid.RowSpan="2" Margin="1,2,0,0"/>
+        <Button Content="Play" HorizontalAlignment="Left" VerticalAlignment="Top" Width="76" Margin="1029,91,0,0" RenderTransformOrigin="0.586,5.9" Click="Button_Click"/>
+        <Button Content="Pause" HorizontalAlignment="Left" Margin="1029,175,0,73" Width="74" Click="Button_Click_2"/>
+        <Button Content="Load" HorizontalAlignment="Left" Margin="1029,2,0,0" VerticalAlignment="Top" Width="74" Click="Button_Click_3"/>
+        <Button Content="Stop" HorizontalAlignment="Left" Margin="1029,264,0,0" VerticalAlignment="Top" Width="74" Click="Button_Click_1" Grid.RowSpan="2"/>
+        <StackPanel VerticalAlignment="Center" Margin="0,306,119,26" Height="36" Grid.Row="1">
+            <Slider ValueChanged="Slider_ValueChanged"  Value="{Binding Position, ElementName=MediaElement1}" Maximum="{Binding NaturalDuration, ElementName=MediaElement1}" 
+            AllowDrop="True" IsSnapToTickEnabled="True" x:Name="slider1"  DataContext="{Binding ElementName=MediaElement1}" Height="28" Margin="2,0,3,0" RenderTransformOrigin="0.5,0.5"  >
+                <Slider.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Slider.RenderTransform>
+            </Slider>
+
+        </StackPanel>
+        <StackPanel VerticalAlignment="Center" Margin="1041,48,22,158" Height="162" Grid.Row="1">
+            <Slider Margin="3,0,15,0"
+            Minimum="1" Maximum="10"
+            Orientation="Vertical" x:Name="slider2" Height="133" Value="7.5" RenderTransformOrigin="0.373,0.496">
+                <Slider.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-0.199"/>
+                        <TranslateTransform X="10.291" Y="5.053"/>
+                    </TransformGroup>
+                </Slider.RenderTransform>
+            </Slider>
+        </StackPanel>
+        <Label x:Name="Volume"  Content="Volume" HorizontalAlignment="Left" Margin="1043,210,0,0" Grid.Row="1" VerticalAlignment="Top" Background="#00000000" FontWeight="Bold" FontFamily="Lucida Sans Typewriter" Foreground="White"/>
+
+    </Grid>
+</Window>
