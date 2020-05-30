@@ -6,6 +6,8 @@ M. Dzikri Hisyam Ilyasa
 
 18051204023
 
+S1 Teknik Informatika 2018A
+
 Fakultas Teknik 
 
 Universitas Negeri Surabaya
