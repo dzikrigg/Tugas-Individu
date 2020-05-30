@@ -1,9 +1,13 @@
 # Tugas-Individu
 
 Repo untuk Kumpulan Tugas Individu
+
 M. Dzikri Hisyam Ilyasa
+
 18051204023
+
 Fakultas Teknik 
+
 Universitas Negeri Surabaya
 
 ### 1. Tugas Calculator
