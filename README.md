@@ -1,7 +1,5 @@
 # Tugas-Individu
 
-Repo untuk Kumpulan Tugas Individu
-
 M. Dzikri Hisyam Ilyasa
 
 18051204023
@@ -11,6 +9,8 @@ S1 Teknik Informatika 2018A
 Fakultas Teknik 
 
 Universitas Negeri Surabaya
+
+(Apabila ada file yang tidak lengkap silahkan buka atau download file "Tugas Individu.zip" disini https://github.com/dzikrigg/Tugas-Individu/blob/master/Tugas%20Individu.zip. Karena ada beberapa file yang tidak ikut terupload, dan murni kesalahan teknis dari GitHub)
 
 ### 1. Tugas Calculator
 Pada tugas ini Saya membuat Kalkulator menggunakan Visual Studio 2019. 
